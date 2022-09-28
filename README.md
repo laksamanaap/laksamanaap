@@ -1,4 +1,4 @@
-### hi semua saya Laksamana AryaPutra dari SMKN 4 Malang!
+### 
 
 <!--
 **laksamanaap/laksamanaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
