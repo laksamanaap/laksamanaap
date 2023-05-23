@@ -1,4 +1,5 @@
-### 
+## Hello I'm Laksamana!
+I'm a internship fullstack developer based in Malang, indonesia!
 
 <!--
 **laksamanaap/laksamanaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
