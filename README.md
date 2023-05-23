@@ -1,5 +1,5 @@
 # Hello I'm Laksamana!
-I'm a internship fullstack developer based in Malang, indonesia! who interested in website development and want to create something awesome!
+I'm a student internship fullstack developer based in Malang, indonesia! who interested in website development and want to create something awesome!
 
 ## Frontend Stack
 <div>
