@@ -1,5 +1,5 @@
 # Hello I'm Laksamana!
-I am a fullstack intern student based in Malang, Indonesia! who are interested in website development and want to create something awesome!
+A junior software engineering student from Malang, Indonesia. I'm passionate about building exceptional digital experiences, whether it's through website and mobile development or diving into the exciting world of machine learning. Let's create something extraordinary together!
 
 ## My Tech Stack 🔭
 <div>
@@ -22,10 +22,10 @@ I am a fullstack intern student based in Malang, Indonesia! who are interested i
 
 ## In progress of mastering 🌱
 <div>
-	 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 	 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-	 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-	 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+	 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+	 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+	 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">		
 </div>
 
 
