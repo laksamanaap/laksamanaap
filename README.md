@@ -30,5 +30,15 @@ A junior software engineering student from Malang, Indonesia. I'm passionate abo
 </div>
 
 
+## About 🙋‍♂️
+<div>
+     <a href="https://www.linkedin.com/in/laksamana-aryaputra/" target="_blank">
+	 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">		
+     </a>
+     <a href="https://www.instagram.com/laksamanaryaputra" target="_blank">
+	 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">		
+     </a>
+</div>
+
 
 
